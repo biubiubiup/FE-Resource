@@ -16,4 +16,5 @@ FE-Resource
 ####Sublime Text
 ####Fiddler
 ####Chrome Developer Tool
+* [Chrome开发工具完全指南](https://www.zhihu.com/question/34682699/answer/81858413?)
 
